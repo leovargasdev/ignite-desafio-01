@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do projeto" width="100%" src="./.github/banner.png" />
+  <img alt="Capa do projeto" width="90%" src="./.github/banner.png" />
 </p>
 
 ## 💻 Detalhes do Desafio
